@@ -5,7 +5,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://web.facebook.com/profile.php?id=100076849504400)](https://web.facebook.com/profile.php?id=100076849504400)
 
 ### About me
-I'm a fullstack javascript developer.
+I'm a fullstack javascript developer, currently focused on NodeJs ReactJs and React-Native
 
 
 
